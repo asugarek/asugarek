@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Angela Sugarek</h1>
 
-<h3 align="center">A passionate data nerd living in Pittsburgh, PA</h3>
+<h3 align="center">A passionate data nerd living in Pittsburgh, PA.</h3>
 
 - 🔭 I’m currently working on [Google Shopping].  Check out this <a href="https://hawksem.com/blog/the-evolution-of-google-shopping/">article <a> about it.
 
 - 🌱 I’m currently pursing **a master's in data science.**
 
-- 👨‍💻 All of my projects are available at [https://asugarek.github.io/#](https://asugarek.github.io/#)
+- 👨‍💻 All of my projects are available at [https://asugarek.github.io/#](https://asugarek.github.io/#).
 
 - 📫 How to reach me **a.sugarek@gmail.com**
 
 - 📄 Check out my experience by reviewing my <a herf="https://drive.google.com/file/d/15RgVv8yYhrY6t6ZeBUdDWksriSXYc5YG/view"> resume <a>.
   
-- ⚡ Fun fact **I used to be a middle school principal.**
+- ⚡ Fun fact, **I used to be a middle school principal.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
