@@ -10,8 +10,8 @@
 
 - 📫 How to reach me **a.sugarek@gmail.com**
 
-- 📄 Check out my experience by reviewing my <a herf="https://drive.google.com/file/d/15RgVv8yYhrY6t6ZeBUdDWksriSXYc5YG/view"> resume<a>.
-- 
+- 📄 Check out my experience by reviewing my <a herf="https://drive.google.com/file/d/15RgVv8yYhrY6t6ZeBUdDWksriSXYc5YG/view"> resume <a>.
+  
 - ⚡ Fun fact **I used to be a middle school principal.**
 
 <h3 align="left">Connect with me:</h3>
