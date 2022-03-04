@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Angela sugarek</h1>
+<h1 align="center">Hi 👋, I'm Angela Sugarek</h1>
 
 <h3 align="center">A passionate data nerd living in Pittsburgh, PA</h3>
 
