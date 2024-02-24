@@ -2,10 +2,6 @@
 
 <h3 align="center">A passionate data nerd living in Pittsburgh, PA.</h3>
 
-- 🔭 I’m currently working on [Google Shopping].  Check out this <a href="https://hawksem.com/blog/the-evolution-of-google-shopping/">article <a> about it.
-
-- 🌱 I’m currently pursing **a master's in data science.**
-
 - 👨‍💻 All of my projects are available at [https://asugarek.github.io/#](https://asugarek.github.io/#).
 
 - 📫 How to reach me **a.sugarek@gmail.com**
